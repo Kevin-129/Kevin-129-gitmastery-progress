@@ -1,5 +1,41 @@
 [
   {
+    "exercise_name": "clone-repo",
+    "started_at": 1769014805.536063,
+    "completed_at": 1769014809.699515,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1769014941.275326,
+    "completed_at": 1769014944.011349,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1769015451.637545,
+    "completed_at": 1769015452.988945,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1769014377.317044,
+    "completed_at": 1769014380.073262,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "grocery-shopping",
     "started_at": 1768661212.093946,
     "completed_at": 1768661214.796078,
@@ -15,6 +51,24 @@
     "completed_at": 1768661322.51226,
     "comments": [
       "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769014040.78552,
+    "completed_at": 1769014044.017546,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1768985885.348772,
+    "completed_at": 1768985886.682352,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
   },
@@ -35,11 +89,92 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "push-over",
+    "started_at": 1768986716.896078,
+    "completed_at": 1768986718.820895,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1768985063.952784,
+    "completed_at": 1768985175.821084,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1769089116.481285,
+    "completed_at": 1769089117.79598,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1769059557.825166,
+    "completed_at": 1769059559.17291,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1769089350.700707,
+    "completed_at": 1769089352.113079,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1769089583.679603,
+    "completed_at": 1769089585.049804,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "staging-intervention",
     "started_at": 1768660937.316104,
     "completed_at": 1768660938.6385,
     "comments": [
       "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1769058252.127595,
+    "completed_at": 1769058253.51322,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1769058832.320481,
+    "completed_at": 1769058834.581603,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1769058546.684035,
+    "completed_at": 1769058548.094862,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
     ],
     "status": "Completed"
   },
@@ -67,78 +202,6 @@
     "completed_at": 1768659869.224109,
     "comments": [
       "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1768985063.952784,
-    "completed_at": 1768985175.821084,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1768985885.348772,
-    "completed_at": 1768985886.682352,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1768986716.896078,
-    "completed_at": 1768986718.820895,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1769014040.78552,
-    "completed_at": 1769014044.017546,
-    "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fork-repo",
-    "started_at": 1769014377.317044,
-    "completed_at": 1769014380.073262,
-    "comments": [
-      "Great work creating a fork with Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1769014805.536063,
-    "completed_at": 1769014809.699515,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1769014941.275326,
-    "completed_at": 1769014944.011349,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1769015451.637545,
-    "completed_at": 1769015452.988945,
-    "comments": [
-      "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
   },
@@ -171,65 +234,11 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "tags-add",
-    "started_at": 1769058252.127595,
-    "completed_at": 1769058253.51322,
+    "exercise_name": "side-track",
+    "started_at": 1769763794.247815,
+    "completed_at": 1769763795.702433,
     "comments": [
-      "Great work using git tag to annotate various commits in the repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-update",
-    "started_at": 1769058546.684035,
-    "completed_at": 1769058548.094862,
-    "comments": [
-      "Great work! You have successfully updated the tags to point to the correct commits."
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-push",
-    "started_at": 1769058832.320481,
-    "completed_at": 1769058834.581603,
-    "comments": [
-      "Wonderful! You have successfully synced the local tags with the remote tags!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-diff",
-    "started_at": 1769059557.825166,
-    "completed_at": 1769059559.17291,
-    "comments": [
-      "Great work comparing commits in git history!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-checkout",
-    "started_at": 1769089116.481285,
-    "completed_at": 1769089117.79598,
-    "comments": [
-      "Great work traversing the revision history!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-reset",
-    "started_at": 1769089350.700707,
-    "completed_at": 1769089352.113079,
-    "comments": [
-      "You have reset the repository to the correct state!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-revert",
-    "started_at": 1769089583.679603,
-    "completed_at": 1769089585.049804,
-    "comments": [
-      "Good work reverting commits!"
+      "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
   }
