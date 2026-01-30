@@ -349,5 +349,14 @@
       "You have successfully completed the exercise!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769766862.130009,
+    "completed_at": 1769766863.510132,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
   }
 ]
